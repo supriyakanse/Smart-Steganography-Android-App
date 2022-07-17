@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SmartStegeno</string>
+    <string name="smartstegno">SmartStegeno</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password1">password</string>
+    <string name="username">UserName</string>
+    <string name="welcome">Welcome!</string>
+    <string name="register_here">Register Here</string>
+    <string name="decode">Decode</string>
+    <string name="encode">Encode</string>
+    <string name="smartstegno_homepage">SmartStegno HomePage</string>
+    <string name="your_message">Message</string>
+    <string name="enter_secret_key">Enter Secret Key</string>
+    <string name="message">Message</string>
+    <string name="secret_key">Secret Key</string>
+
+        <string name="aboutustag">About us</string>
+        <string name="infotag">Guide for you</string>
+        <string name="aboutus">
+        Thank you for choosing SMARTSTEGENO..!!\n\n
+
+        Following are the terms of on which we operate :-\n
+        i. We do not take any of your private media accept the image you select\n
+        ii. We dont offer any fees for the hiding of message.\n
+        iii.Preserve original image.\n
+        iv.No complexity in data hiding.\n
+        v. Communication through this app is fully secured.\n
+        \n Continue the use without any worries..!!
+    </string>
+        <string name="info">HEY SmartUser..!!\n\n\n
+        Follow the guide given for fluent \n  use of application :-\n\n
+        For encoding:\n
+        Step 1:\t   Make a secret key :-\n
+                 Give your key and encrypt it using \n the application so that none can guess \n it and total security of your message \n is guaranteed!!\n
+        Step 2:\t   Lets start with encoding :-\n
+                Choose the image where you would \n like to conceal message\n
+                Enter your secret message and the \n encrypted key and hit encode \n
+                Give your few precious moment\n so that SMARTSTEGENO would \n conceal the message\n
+                Finally, save the encoded image.\n\n\n
+        For sharing :-\n
+                Enter email id and the encrypted \n key of the receiver and hit share\n\n\n
+        For decoding :-\n
+          Step 1:   Get your original key :-\n
+                Firstly, enter the encrypted key \n you received from sender.\n
+                Hit, decrpyt key so that you \n would get original key.\n
+          Step 2:   Lets start with decoding :-\n
+                Goto decode section and choose the image given by sender and \n enter secret key hit decode.\n
+                Ta-DA..!! You  will get the message sender wants to send you.\n
+        You may proceed to \n communicate without any queries..!!
+
+    </string>
+
+</resources>
